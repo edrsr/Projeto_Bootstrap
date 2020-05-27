@@ -1,0 +1,32 @@
+body{
+    font: 20px Arial sans-serif;
+}
+
+.navbar{
+    background-color: #088A68;
+}
+
+.p_home{
+    background-color: #E0F8E6;
+    color: blue;
+}
+
+.margin{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.pagina_quemsomos{
+    background-color: rgb(62, 101, 230);
+    color: rgb(246, 254, 255);
+}
+
+.pagina_treinamentos{
+    background-color: rgb(62, 101, 230);
+    color: rgb(246, 254, 255);
+}
+
+.bg-footer{
+    background-color: rgb(22, 0, 150);
+    color: #088A68;
+}
